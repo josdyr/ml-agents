@@ -9,6 +9,9 @@
 /UnitySDK/Assets/Plugins*
 /UnitySDK/Assets/Gizmos*
 
+# Env
+/env
+
 # Tensorflow Model Info
 /models
 /summaries
