@@ -10,7 +10,7 @@
 /UnitySDK/Assets/Gizmos*
 
 # Env
-/env
+/ml-agents/env
 
 # Tensorflow Model Info
 /models
